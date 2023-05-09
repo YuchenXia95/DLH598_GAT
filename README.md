@@ -9,9 +9,8 @@ This repository is an implementation of [Graph Attention Networks](https://arxiv
 
 To install requirements:
 
-```setup
 executing environment.yml file which deals with dependencies
-```
+
 Just run jupyter notebook from you Anaconda console and it will open up a session in your default browser.
 
 
@@ -40,8 +39,8 @@ Our model achieves the following performance on :
 | GAT                |     0.978      |  
 | GraphSAGE          |     0.716      |  
 
-
-
+## Jupyter Notebook (Bonus)
+The Annotated GAT (Cora)- Descriptive
+The Annotated GAT (PPI)-Descriptive
 ## Contributing
 
->📋  Pick a licence and describe how to contribute to your code repository. 
