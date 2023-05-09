@@ -17,6 +17,7 @@ Just run jupyter notebook from you Anaconda console and it will open up a sessio
 ## Training, Evaluation
 
 To train and evaluate the model(s) in the paper, run below scripts:
+
 The Annotated GAT (Cora)-Code.ipynb
 
 The Annotated GAT (PPI)-Code.ipynb
@@ -41,7 +42,10 @@ Our model achieves the following performance on :
 | GraphSAGE          |     0.716      |  
 
 ## Jupyter Notebook (Bonus)
+Open below scripts to view descriptive Jupter Notebook:
+
 The Annotated GAT (Cora)- Descriptive.ipynb
+
 The Annotated GAT (PPI)- Descriptive.ipynb
 ## Contributing
 
